@@ -1,7 +1,8 @@
 # Usage
 
 ### git clone
-git clone https://github.com/Volodymyr2608/myBlog.git
+git clone https://github.com/Volodymyr2608/myBlog.git 
+
 cd myBlog
 ### install node_modules
 npm install .
